@@ -51,3 +51,11 @@ Aplicación práctica de los conocimientos adquiridos a través de la construcci
    3. **Juegos**
    4. **Trabajo cooperativo**
    5. **Otros**
+
+
+
+Por supuesto, aquí está el `README.md` actualizado con el comando `git clone` para clonar el repositorio. Asegúrate de reemplazar `[URL_DEL_REPOSITORIO]` con la URL real de tu repositorio en GitHub.
+
+```bash
+git clone https://github.com/marcosd59/IT0317-DISENO_DE_INTERFACES.git
+```
