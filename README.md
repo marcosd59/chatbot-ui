@@ -1,4 +1,4 @@
-# Diseño de interfaces humano-máquina -IT0317
+# Diseño de interfaces humano-máquina - IT0317
 
 Este repositorio contiene materiales y recursos para el curso IT0317, centrado en el diseño de interfaces. El curso se divide en cuatro unidades principales, cada una abordando diferentes aspectos y consideraciones en el diseño de interfaces de usuario.
 
