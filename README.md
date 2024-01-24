@@ -1,5 +1,13 @@
 # Diseño de interfaces humano-máquina - IT0317
 
+## Integrantes
+
+1. **Marcos Damián Pool Canul. 200300591@ucaribe.edu.mx**
+
+2. **Marcos Damián Pool Canul. 200300591@ucaribe.edu.mx**
+
+***Profesor: Ricardo Armando Ruíz Hernández***
+
 Este repositorio contiene materiales y recursos para el curso IT0317, centrado en el diseño de interfaces. El curso se divide en cuatro unidades principales, cada una abordando diferentes aspectos y consideraciones en el diseño de interfaces de usuario.
 
 ## Unidad I. FUNDAMENTOS
