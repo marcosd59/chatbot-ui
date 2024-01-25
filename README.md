@@ -4,7 +4,7 @@
 
 1. **Marcos Damián Pool Canul. 200300591@ucaribe.edu.mx**
 
-2. **Marcos Damián Pool Canul. 200300591@ucaribe.edu.mx**
+2. **Alexis Rodríguez Ramon. 170300123@ucaribe.edu.mx**
 
 ***Profesor: Ricardo Armando Ruíz Hernández***
 
