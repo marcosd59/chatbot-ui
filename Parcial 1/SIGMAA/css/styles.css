@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+header {
+  background-color: #f1f1f1;
+  padding: 10px;
+  border-bottom: 4px solid #2a3063;
+}
+
+.sidebar {
+  border-right: 4px solid #2a3063;
+  width: 20%;
+  background-color: #f9f9f9;
+  padding: 20px;
+}
+
+.main {
+  width: 30%;
+  background-color: #c1bfbf;
+  padding: 20px;
+  text-align: center;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  margin-bottom: 10px;
+}
+
+.sidebar ul li ul {
+  margin-top: 5px;
+}
+
+.clear {
+  clear: both;
+}
