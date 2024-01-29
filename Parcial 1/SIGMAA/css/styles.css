@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   margin: 0;
   padding: 0;
@@ -42,3 +43,43 @@ header {
 .clear {
   clear: both;
 }
+=======
+/* header {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #f1f1f1;
+  padding: 10px;
+  margin: 10px;
+  gap: 20px;
+}
+
+.sidebar {
+  float: left;
+  width: 20%;
+  background-color: #f9f9f9;
+  padding: 20px;
+}
+
+.main {
+  float: left;
+  width: 80%;
+  padding: 20px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  margin-bottom: 10px;
+}
+
+.sidebar ul li ul {
+  margin-top: 5px;
+}
+
+.clear {
+  clear: both;
+} */
+>>>>>>> main
