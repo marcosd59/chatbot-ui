@@ -1,8 +1,3 @@
----
-markmap:
-  colorFreezeLevel: 2
----
-
 # Ciclo de vida del Proyecto
 
 ## Gupo de _Procesos_ de **Inicio**
