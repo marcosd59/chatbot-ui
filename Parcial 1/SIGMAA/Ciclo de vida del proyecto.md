@@ -1,8 +1,13 @@
+---
+markmap:
+  colorFreezeLevel: 4
+---
+
 # Ciclo de vida del Proyecto
 
-## Gupo de _Procesos_ de **Inicio**
+## Grupo de _Procesos_ de **Inicio** ![Inicio](https://pbs.twimg.com/media/GFbLggIWsAE4rf1?format=png&name=120x120)
 
-### Áreas de Conocimiento
+### [Áreas de Conocimiento](https://proyectum.com/sistema/blog/grupo-de-procesos-de-inicio/)
 
 #### 4. Gestión de la Integracion del Proyecto
 
@@ -12,9 +17,9 @@
 
 ##### 13.1 Identificar a los Interesados
 
-## Gupo de _Procesos_ de **Planificación**
+## Grupo de _Procesos_ de **Planificación** ![Planeacion](https://pbs.twimg.com/media/GFdBSCzWAAAUoRJ?format=png&name=120x120)
 
-### Áreas de Conocimiento
+### [Áreas de Conocimiento](http://contenidos.sucerman.com/nivel2/proyectos/unidad3/leccion2.html)
 
 #### 4. Gestión de la Integración del Proyecto
 
@@ -84,9 +89,9 @@
 
 ##### 13.2 Planificar el Involucramiento de los Interesados
 
-## Gupo de _Procesos_ de **Ejecución**
+## Grupo de _Procesos_ de **Ejecución** ![Ejecucion](https://pbs.twimg.com/media/GFdBSC0XQAA4kOa?format=png&name=120x120)
 
-### Áreas de Conocimiento
+### [Áreas de Conocimiento](https://proyectum.com/sistema/blog/grupo-de-procesos-de-ejecucion/)
 
 #### 4. Gestión de la Integración del Proyecto
 
@@ -122,9 +127,9 @@
 
 ##### 13.3 Gestionar la Participacion de los Interesados
 
-## Gupo de _Procesos_ de **Monitoreo** y **Control**
+## Grupo de _Procesos_ de **Monitoreo** y **Control** ![Monitoreo](https://pbs.twimg.com/media/GFdBSCzXUAAm1ZY?format=png&name=120x120)
 
-### Áreas de Conocimiento
+### [Áreas de Conocimiento](https://www.slideshare.net/gerencia88/grupo-de-procesos-de-monitoreo-y-control)
 
 #### 4. Gestión de la Integración del Proyecto
 
@@ -170,9 +175,9 @@
 
 ##### 13.4 Monitorear el Involucramiento de los Interesados
 
-## Gupo de _Procesos_ de **Cierre**
+## Grupo de _Procesos_ de **Cierre** ![Cierre](https://pbs.twimg.com/media/GFdBSC2X0AAIbX1?format=png&name=120x120)
 
-### Áreas de Conocimiento
+### [Áreas de Conocimiento](https://www.ealde.es/grupo-procesos-cierre/)
 
 #### 4. Gestión de la Integración del Proyecto
 
