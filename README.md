@@ -61,5 +61,5 @@ Aplicación práctica de los conocimientos adquiridos a través de la construcci
    5. **Otros**
 
 ```bash
-git clone https://github.com/marcosd59/IT0317-DISENO_DE_INTERFACES.git
+git clone https://github.com/marcosd59/diseno-de-interfaces.git
 ```
