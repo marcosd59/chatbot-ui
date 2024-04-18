@@ -20,6 +20,10 @@ Este proyecto implementa una interfaz de usuario para un chatbot, diseñado para
 
 ![CHATBOT-04](./images/Chatbot-UI-04.png)
 
+---
+
+![CHATBOT-05](./images/Chatbot-UI-05.png)
+
 ## Características
 
 - Botón interactivo para abrir y cerrar el chatbot.
