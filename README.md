@@ -29,34 +29,6 @@ Para poner en marcha el proyecto localmente, sigue estos pasos:
 
 2. Navega al directorio del proyecto:
 
-   ```bash
-   cd chatbot-ui
-   ```
-
-3. Abre el archivo `index.html` en tu navegador para ver el chatbot en acción.
-
-## Configuración
-
-Para interactuar con el chatbot y asegurarte de que pueda responder correctamente, debes configurar tu API key:
-
-1. Abre el archivo `script.js`.
-2. Encuentra la línea que contiene `const OPENAI_API_KEY = "";`.
-3. Coloca tu API Key aquí: `const OPENAI_API_KEY = "your-api-key-here";`.
-
-## Uso
-
-Para interactuar con el chatbot:
-
-1. Haz clic en el botón del chatbot en la esquina de la página.
-2. Utiliza el campo de texto para enviar tus preguntas.
-3. El chatbot responderá automáticamente.
-
-## Contribuir
-
-Si estás interesado en contribuir al proyecto, sigue estos pasos:
-
-1. Forkea el repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-feature`).
-3. Realiza tus cambios y haz commit de los mismos (`git commit -am 'Añadir nueva feature'`).
-4. Push a la rama (`git push origin feature/nueva-feature`).
-5. Crea una nueva Pull Request.
+```bash
+git clone https://github.com/marcosd59/IT0317-DISENO_DE_INTERFACES.git
+```
